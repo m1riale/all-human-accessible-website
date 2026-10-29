@@ -13,7 +13,7 @@ Deze README laat het proces zien: van low-fi schetsen en hi-fi ontwerp naar twee
 ## Inhoudsopgave
 
   * [Proces](#Proces)
-  * [Lo-fi schetsen](#lo-fi)
+  * [Lo-fi](#lo-fi)
   * [Kenmerken](#kenmerken)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
