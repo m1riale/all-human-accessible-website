@@ -12,12 +12,12 @@ Deze README laat het proces zien: van low-fi schetsen en hi-fi ontwerp naar twee
 
 ## Inhoudsopgave
 
-  * [Proces](#Procesinhetkort)
+  * [Proces](#Proces)
   * [Kenmerken](#kenmerken)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Proces in het kort
+## Proces
 
 | Stap | Wat | Resultaat |
 |------|-----|-----------|
